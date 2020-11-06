@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="" main="ShapeTester" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ShapeTester.java" package="" timestamp="06-Nov-2020 09:43:49">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Circle.java" package="" timestamp="06-Nov-2020 08:51:04">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Locatable.java" package="" timestamp="06-Nov-2020 08:51:12">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="ShapeContainer.java" package="" timestamp="06-Nov-2020 08:52:07">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Square.java" package="" timestamp="06-Nov-2020 08:52:34">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Test.java" package="" timestamp="06-Nov-2020 08:53:31">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Rectangle.java" package="" timestamp="06-Nov-2020 09:11:50">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Shape.java" package="" timestamp="06-Nov-2020 09:11:55">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Selectable.java" package="" timestamp="06-Nov-2020 09:12:10">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+      <file name="Triangle.java" package="" timestamp="06-Nov-2020 09:33:46">
+        <select from="5903" to="5903"/>
+        <scroll column="2630" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
